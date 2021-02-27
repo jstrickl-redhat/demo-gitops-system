@@ -1,2 +1,2 @@
-# demo-gitops-system-layer
+# demo-gitops-system
 System Layer Repo Config for GitOps
